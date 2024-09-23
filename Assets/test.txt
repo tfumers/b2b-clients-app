@@ -1,0 +1,4 @@
+{"email":"abcd@abcd.com","passTest":"123456"}
+
+
+AuthController() Se encarga de la autorización y autenticación del usuario.
